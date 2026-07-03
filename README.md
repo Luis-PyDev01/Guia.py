@@ -1,10 +1,5 @@
 # 🐍 Guia Inicial de Python
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-
----
-
 # Sobre o projeto
 
 Este repositório foi desenvolvido como um guia introdutório para estudantes que desejam aprender os conceitos fundamentais da linguagem Python.
