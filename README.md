@@ -1,54 +1,61 @@
 # 🐍 Guia Inicial de Python
 
-## Introdução
-
-Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. Sua sintaxe simples e legível faz dela uma das linguagens mais indicadas para quem está começando a programar.
-
-Ela é utilizada tanto em projetos pequenos quanto em grandes sistemas profissionais.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
-# Principais áreas de aplicação
+# Sobre o projeto
+
+Este repositório foi desenvolvido como um guia introdutório para estudantes que desejam aprender os conceitos fundamentais da linguagem Python.
+
+O objetivo é apresentar exemplos simples, organizados e comentados, facilitando o aprendizado dos principais recursos da linguagem.
+
+---
+
+# O que é Python?
+
+Python é uma linguagem de programação interpretada, de alto nível e multiparadigma.
+
+Criada por Guido van Rossum em 1991, tornou-se uma das linguagens mais populares do mundo graças à sua simplicidade e enorme quantidade de bibliotecas.
+
+---
+
+# Principais aplicações
 
 - Desenvolvimento Web
 - Inteligência Artificial
 - Ciência de Dados
-- Automação de tarefas
+- Machine Learning
+- Automação
 - Desenvolvimento de APIs
+- Internet das Coisas
+- Jogos
 - Computação Científica
 - Segurança da Informação
-- Desenvolvimento de Jogos
-- Internet das Coisas (IoT)
 
 ---
 
 # Vantagens
 
-- Sintaxe simples e intuitiva
-- Fácil aprendizado
-- Grande quantidade de bibliotecas
-- Comunidade ativa
-- Alta produtividade
-- Multiplataforma
+ Fácil aprendizado
+
+ Sintaxe simples
+
+ Grande comunidade
+
+ Multiplataforma
+
+ Grande quantidade de bibliotecas
+
+ Muito utilizada pelo mercado
 
 ---
 
 # Desvantagens
 
-- Menor desempenho quando comparada a linguagens compiladas
-- Consumo maior de memória
-- Não é a melhor escolha para sistemas que exigem alta performance
+ Menor desempenho que linguagens compiladas
 
----
+ Alto consumo de memória
 
-# Estrutura do projeto
-
-A pasta `exemplos/` contém exemplos básicos sobre:
-
-- Hello World
-- Variáveis e Tipos
-- Estruturas Condicionais
-- Laços de Repetição
-- Funções
-
-Todos os exemplos podem ser executados utilizando Python 3.
+ Não indicada para sistemas de tempo real
