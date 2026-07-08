@@ -4,7 +4,7 @@
 
 Este repositório foi desenvolvido como um guia introdutório para estudantes que desejam aprender os conceitos fundamentais da linguagem Python.
 
-O objetivo é apresentar exemplos simples, organizados e comentados, facilitando o aprendizado dos principais recursos da linguagem.
+O objetivo é apresentar exemplos simples, organizados e facilitando o aprendizado dos principais recursos da linguagem.
 
 ---
 
